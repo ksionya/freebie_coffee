@@ -1,0 +1,28 @@
+.tabs__body {
+    float: none;
+    width: 100%;
+}
+
+.tabs__item {
+    padding: 20px 20px;
+    .text {
+        margin: 10px 0;
+    }
+    .btn-buy {
+        padding: 8px 35px;
+        margin: 0 50px 0 10px;
+    }
+}
+
+.tabs-img {
+    float: left;
+    width: 50%;
+    position: static;
+    img {
+        margin: 15px auto;
+    }
+}
+
+.in-par {
+    margin: 15px 0 25px 0;
+}
